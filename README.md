@@ -26,3 +26,7 @@ ADD THIS TO YOUR composer.json
 EXECUTE composer dump-autoload
 
 EXECUTE php artisan migrate to install db tables
+
+
+NOTE: Dont forget to modify your email config
+
